@@ -5,4 +5,4 @@ This repository contains python code for scraping basketball-reference.com for N
 2) basketball_reference_eda.ipynb - The code for EDA and visualizations as well as analysis and results of the code
 3) top_scorers_data.csv - Data compiled from the webscraping code saved as a csv file
 
-For full details on the project including methodology, analysis and results please refer to this blog post: 
+For full details on the project including methodology, analysis and results please refer to this blog post: https://medium.com/@fernandez_nicolas/nba-data-analysis-review-of-past-three-nba-seasons-of-current-top-70-scorers-1db50f5b935a

@@ -1,4 +1,4 @@
-# Coding_2_Final_Project
+# NBA Data Collection and Analysis
 
 This repository contains python code for scraping basketball-reference.com for NBA seasonal data from 2021-2023 of the current (2024) NBA season top 70 scorers by points per game (PPG), python code for the EDA of the data, as well as the csv file for the scraped data itself. File titles are as follows:
 1) basketball_reference_scrape.ipynb - The scraping code as well as results from how they worked
